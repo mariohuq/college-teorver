@@ -1,0 +1,18 @@
+title: Конспект лекций по диспциплине Теория вероятностей и математическая статистика
+author: Кондраев Дмитрий
+rights:  Creative Commons Non-Commercial Share Alike 3.0
+lang: ru-RU
+# LaTeX
+documentclass: article
+geometry:
+    - a4paper
+    - top=2cm
+    - bottom=2cm
+    - left=2cm
+    - right=2.5cm
+# fontfamily: pscyr
+fontsize: 14pt
+fontenc: T2A
+mainfont: PT Serif
+links-as-notes: true
+toc: true 
